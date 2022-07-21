@@ -58,7 +58,7 @@ Utility:
 <!-- CONTACT -->
 ## Game Screenshot
 <div align="center">
-  <p>This screenshot is compressed in size, go to the demo link to see the page properly. </p>
+  <p>This screenshot is compressed in size, go to the demo link to see the page properly. <a href="https://hardtek.com.br/resume/">View Demo</a></p>
   <a href="#">
  <img src="https://hardtek.com.br/resume/screenshot.png" alt="Logo" width="868" height="410"></a>
 </div>
