@@ -9,7 +9,7 @@
     <img src="https://github.com/othneildrew/Best-README-Template/raw/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MARIO RUNNING (GAME)</h3>
+  <h3 align="center">ONLINE CV IN HTML & CSS</h3>
 
   <p align="center">
     <br />
@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a Resume made with HTML and CSS very easy to edit.
+This is a Resume (CV) made with HTML and CSS very easy to edit.
 
 Objective:
 * Have an online CV to present companies.
@@ -58,6 +58,7 @@ Utility:
 <!-- CONTACT -->
 ## Game Screenshot
 <div align="center">
+  <p>This screenshot is compressed in size, go to the demo link to see the page properly. </p>
   <a href="#">
  <img src="https://hardtek.com.br/resume/screenshot.png" alt="Logo" width="868" height="410"></a>
 </div>
